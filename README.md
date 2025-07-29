@@ -9,7 +9,6 @@
 ## 🚀 Proyectos destacados
 
 - 🌐 [petershica.me](https://petershica.me) – Mi página web personal
-- 🕊 [príncipe-de-paz](https://github.com/pshica/principe-de-paz) – Web de mi comunidad cristiana
 - 📊 [CdD_UAM](https://github.com/pshica/CdD_UAM) – Apuntes de Ciencia de Datos de la UAM
 - 💼 [petershica.github.io](https://github.com/pshica/petershica.github.io) – Repositorio de mi sitio web
 
