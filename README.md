@@ -16,10 +16,11 @@
 
 ## 📫 Contáctame
 
-- Email: [shica5@gmail.com]
-- LinkedIn: [linkedin.com/in/petershica](www.linkedin.com/in/peter-shica-ramirez-34581018b)
-- GitHub: [github.com/pshica](https://github.com/pshica)
+- 💼 LinkedIn: [peter-shica-ramirez](https://www.linkedin.com/in/peter-shica-ramirez-34581018b/)
+- 📧 Email: shica5@gmail.com *(si deseas incluirlo)*
+- 🐙 GitHub: [pshica](https://github.com/pshica)
 
 ---
 
 > ✨ Mi meta es seguir creciendo como profesional de datos, contribuir a proyectos interesantes y apoyar a otros en su camino de aprendizaje.
+
