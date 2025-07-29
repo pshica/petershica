@@ -16,7 +16,7 @@
 
 ## 📫 Contáctame
 
-- Email: [tucorreo@ejemplo.com]
+- Email: [shica5@gmail.com]
 - LinkedIn: [linkedin.com/in/petershica](https://www.linkedin.com/in/petershica)
 - GitHub: [github.com/pshica](https://github.com/pshica)
 
