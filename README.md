@@ -16,7 +16,7 @@
 
 ## 📫 Contáctame
 
-- 💼 LinkedIn: [peter-shica-ramirez](https://www.linkedin.com/in/peter-shica-ramirez-34581018b/)
+- 💼 LinkedIn: [peter-shica-ramirez](https://www.linkedin.com/in/peter-shica-ramirez/)
 - 📧 Email: shica5@gmail.com
 - 🐙 GitHub: [pshica](https://github.com/pshica)
 
